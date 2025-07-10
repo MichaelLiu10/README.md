@@ -69,3 +69,6 @@ Exporting to ONNX
 Type this command:
 yolo export model=runs/classify/train2/weights/best.pt format=onnx
 
+<img width="1748" height="1160" alt="Screenshot 2025-07-10 113520" src="https://github.com/user-attachments/assets/5e7a1b7c-83c7-4b97-9430-ad2e5afc0a18" />
+<img width="1709" height="1243" alt="Screenshot 2025-07-10 112358" src="https://github.com/user-attachments/assets/695bf5cb-0fa6-437e-b68f-d3b53e43c106" />
+<img width="371" height="274" alt="Screenshot 2025-07-10 111747" src="https://github.com/user-attachments/assets/63b5893e-1c3f-4860-8838-cbf25293a7a8" />
