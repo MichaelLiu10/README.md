@@ -1,3 +1,4 @@
+
 # Fruit Ripeness Detector AI
 
 This is a AI that can tell you if a fruit is ripe or not. It uses detectnet on the jetson orin nano. The AI can tell you is an apple, banana, or mango is ripe, or unripe. I made this AI because i thought that sorting through ripe and unripe fruit was a long and tedious task that wasnt necessary with the development of AI. 
